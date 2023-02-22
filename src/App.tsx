@@ -1,9 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
+import React  from 'react';
+import Paginater from './components/paginater'
+import "./App.css"
 
 function App() {
   return (
-    <div>
+    <div className='main-app'>
+      <Paginater />
     </div>
   );
 }
