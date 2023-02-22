@@ -56,7 +56,7 @@ function Paginater() {
 
     return (
         <>
-          {/* Display all the posts */}
+          {/* Display all the cryptoinformation */}
           <TableContainer component={Paper}>
             <Table sx={{ minWidth: 650 }} aria-label="simple table">
                 <TableHead>
